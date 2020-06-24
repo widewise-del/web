@@ -111,10 +111,10 @@ body {
 .left-5 {margin-left: 5px;}
 .btn {border-radius: 0;}
 .btn-primary {
-  background-color: #229ac8;
-  background-image: linear-gradient(to bottom, #23a1d1, #1f90bb);
+  background-color: #474747;
+  background-image: linear-gradient(to bottom, #474747, #000000);
   background-repeat: repeat-x;
-  border-color: #1f90bb #1f90bb #145e7a;
+  border-color: #474747 #444444 #000000;
   color: #ffffff;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
   transition: all 0.3s ease 0s;
@@ -533,7 +533,7 @@ p.welcome-msg {
   width: 100%;
 }
 .total span {
-  color: #26acce;
+  color: #474747;
   float: right;
   font-size: 20px;
   font-weight: 600;
@@ -1353,7 +1353,7 @@ a.posts-read-more:hover {
   margin-top: 32px;
 }
 .product-menu {
-  border-bottom: 3px solid #26acce;
+  border-bottom: 3px solid #474747;
   overflow: hidden;
   padding: 5px 0;
 }
@@ -1456,7 +1456,7 @@ a.posts-read-more:hover {
   transform: scale(1);
 }
 .product-button button{
-	background: #26acce none repeat scroll 0 0;
+	background: #474747 none repeat scroll 0 0;
 	border: 0 none;
 	box-shadow: none;
 	color: #fff;
@@ -2565,7 +2565,7 @@ transition: border 0.2s ease-in-out 0s;
   margin-bottom: 40px;
 }
 .panel-group .panel-heading {
-  border: 1px solid #26acce;
+  border: 1px solid #474747;
   border-radius: 0;
   color: #444;
   display: block;
@@ -2583,7 +2583,7 @@ transition: border 0.2s ease-in-out 0s;
   color: #444;
 }
 .panel-group .panel-heading a {
-  background: #26ACCE;
+  background: #474747;
   padding: 10px;
   color: #fff;
 }
